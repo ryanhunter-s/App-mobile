@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import DashboardScreen from '../screens/dashboard/DashboardScreen';
+import DashboardScreen from "~/screens/dashboard/DashboardScreen";
 
 const Stack = createNativeStackNavigator();
 

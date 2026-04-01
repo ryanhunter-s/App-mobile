@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { View, ActivityIndicator } from 'react-native';
 import AppNavigator from './src/navigation/AppNavigator';
-import { getToken } from './src/utils/storage.js';
+import { getToken } from './src/utils/storage';
 import { NavigationContainer } from '@react-navigation/native';
 
 export default function App() {

@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import WorkspaceScreen from '../screens/dashboard/Workspace/WorkspaceScreen';
+import WorkspaceScreen from '~/screens/dashboard/Workspace/WorkspaceScreen';
 
 const Stack = createNativeStackNavigator();
 
